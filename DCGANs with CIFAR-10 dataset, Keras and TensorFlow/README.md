@@ -8,13 +8,7 @@ Requirements
 
 Ensure you have the following dependencies installed:
 
-TensorFlow
-
-Keras
-
-NumPy
-
-Matplotlib
+pip install tensorflow keras numpy matplotlib
 
 Training Process
 
@@ -38,7 +32,12 @@ Periodic image visualization to track progress.
 
 Running the Code
 
-Simply execute the script in a Jupyter Notebook or a Python environment where TensorFlow and Keras are installed. Ensure that the CIFAR-10 dataset is properly loaded before training.
+Clone the repository:
+
+git clone <repository_url>
+cd <repository_name>
+
+Run the script in a Jupyter Notebook or a Python environment where TensorFlow and Keras are installed.
 
 Potential Issues & Fixes
 
