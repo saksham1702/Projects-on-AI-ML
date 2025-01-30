@@ -1,4 +1,4 @@
-# Data Analysis Projects Repository
+# Data Science Projects
 
 Welcome to my repository where I have uploaded a collection of data analysis projects. This repository showcases various data analysis tasks, including data cleaning, exploration, visualization, and building predictive models using different techniques and tools.
 
