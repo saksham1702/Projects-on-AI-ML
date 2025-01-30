@@ -1,38 +1,27 @@
-Generative Adversarial Network (GAN) on CIFAR-10
+# Generative Adversarial Network (GAN) on CIFAR-10
 
-Overview
+## Project Overview
 
-This project implements a Generative Adversarial Network (GAN) to generate images based on the CIFAR-10 dataset. The GAN consists of a generator and a discriminator trained adversarially to improve the quality of generated images over time.
+This project implements a **Generative Adversarial Network (GAN)** to generate images based on the **CIFAR-10** dataset. The GAN consists of two primary components:
+- **Generator**: Creates synthetic images from random noise vectors (latent space).
+- **Discriminator**: Distinguishes between real and generated images, providing feedback to improve the generator.
 
-Key Features
+The generator and discriminator are trained adversarially, meaning they both compete to improve each other's performance. The training process involves using real CIFAR-10 images and the generated images to refine the models and improve the quality of generated images over time.
 
-Uses batch training with real and generated images.
+## Key Features
 
-Latent space sampling for generating images.
+- **Batch Training**: Uses both real and generated images for training.
+- **Latent Space Sampling**: Generates images from random noise vectors.
+- **Loss Tracking**: Tracks the loss for both the generator and discriminator to monitor progress.
+- **Periodic Image Visualization**: Regularly visualizes the generated images to track improvements.
 
-Loss tracking for both generator and discriminator.
+## Results
 
-Periodic image visualization to track progress.
+After training for a sufficient number of epochs, the generator should be capable of producing somewhat visually recognizable images that closely resemble those from the CIFAR-10 dataset.
 
-Running the Code
+## Potential Issues & Fixes
 
-Clone the repository:
-
-git clone <repository_url>
-cd <repository_name>
-
-Run the script in a Jupyter Notebook or a Python environment where TensorFlow and Keras are installed.
-
-Potential Issues & Fixes
-
-Ensure that X_train (training dataset) is properly loaded.
-
-Check if latent_dim, WIDTH_SIZE, and HEIGHT_SIZE are defined.
-
-Use generator.predict(z) or generator.predict_on_batch(z) consistently.
-
-Normalize generated images correctly before visualization.
-
-Results
-
-After sufficient epochs, the generator should produce visually recognizable images similar to the CIFAR-10 dataset.
+- Ensure the CIFAR-10 dataset (`X_train`) is loaded correctly.
+- Verify that the variables `latent_dim`, `WIDTH_SIZE`, and `HEIGHT_SIZE` are properly defined.
+- Use `generator.predict(z)` or `generator.predict_on_batch(z)` consistently for generating images.
+- Normalize the generated images correctly before visualization.
