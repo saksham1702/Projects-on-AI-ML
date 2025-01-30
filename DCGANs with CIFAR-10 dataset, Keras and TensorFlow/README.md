@@ -4,22 +4,6 @@ Overview
 
 This project implements a Generative Adversarial Network (GAN) to generate images based on the CIFAR-10 dataset. The GAN consists of a generator and a discriminator trained adversarially to improve the quality of generated images over time.
 
-Requirements
-
-Ensure you have the following dependencies installed:
-
-pip install tensorflow keras numpy matplotlib
-
-Training Process
-
-The discriminator is trained on real and fake samples to distinguish between them.
-
-The generator is trained to fool the discriminator by generating realistic images.
-
-A smoothed label technique is used to improve training stability.
-
-Images are generated and displayed at intervals during training.
-
 Key Features
 
 Uses batch training with real and generated images.
