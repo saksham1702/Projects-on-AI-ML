@@ -1,0 +1,73 @@
+Paper title : UNDERLYING MANUFACTURING OF PHARMACEUTICALS IN MICROGRAVITY AND SPACE
+Abstract : Human space exploration has advanced from
+survival in space to complex scientific research,
+epitomized by the International Space Station
+(ISS). As missions extend to the Moon and Mars,
+challenges like microbial contamination and
+altered immune responses become critical.
+Space's hostile environment—extreme
+temperatures, vacuum, cosmic radiation, and
+microgravity—affects human physiology and
+drug stability.
+
+This literature review explores
+the impact of these conditions on
+pharmaceuticals, addressing astronaut safety,
+drug discovery acceleration, benefits for Earth,
+and drug development needs for space missions.
+Innovations like 3D printing and microfluidics
+are crucial for maintaining medication efficacy
+and supporting long-duration missions, ensuring
+the success and sustainability of human space
+exploration.
+Written by : Saksham Tiwari and Heramb
+
+Paper title: Unraveling the financial dimension of Space endeavors
+Abstract : Astro-economics, an emerging interdisciplinary field, examines the economic principles
+and implications of human activities in outer space. This literature review explores the
+evolution, current state, and future prospects of astro economics, highlighting key themes
+such as the commercialization of space, space tourism, resource utilization, and the
+economic impact of space policies. The review synthesizes findings from academic
+articles, industry reports, and policy papers, providing a comprehensive overview of how
+economic theories are applied to space-related activities. It identifies major stakeholders,
+including private companies, governmental agencies, and international organizations, and
+discusses their roles in shaping the economic landscape of space. Additionally, the review
+addresses the challenges of space debris, the viability of space mining, and the potential
+for sustainable economic growth through space exploration. By integrating economic
+models with space science, the field of astro economics offers valuable insights into the
+financial viability and strategic planning required for future space endeavors. This review
+concludes by outlining the critical areas for further research and the implications for
+policymakers and industry leaders aiming to navigate the complexities of the space
+economy.
+Written by :BHUSHAN DESHMANE, ANIMESH RAJ, DAKSHITA POKHARNA, ANNU CHAURASIYA , HERAMB
+
+Paper title : Beyond the Visible: A Comprehensive Literature Review of Dark Matter Theories and Experiments
+Abstract: The matter we can see only makes up about 15% of the total matter in the universe. The remaining 85% is invisible dark
+matter. In this systematic literature review on dark matter cosmology, we have provided an overview of several potential
+dark matter candidates, such as WIMPs, Axions, Primordial Black Holes, ALPs (Axion-like particles), etc. This review
+mentions the effects of dark matter particles on their surroundings like the emission of radiation, interaction with visible
+matter, microlensing effect, etc which formed a basis for several experiments that have been conducted over the years to
+detect these particles. The theoretical concepts related to Dark Matter like the paradox of youth problem, the Interacting
+Boson-Fermion
+Model (IBFM-2), evaporation of PBHs due to hawking radiation and several other concepts have been discussed. This review
+also aims to give a detailed explanation of several independent experiments that have been conducted across the globe to
+detect the presence of these dark matter particles. Some of the most significant experiments that have been conducted and
+the results obtained from them have been mentioned. Additionally, we describe the design and working principles of
+various detectors used in these experiments along with their sensitivity.
+written by: SIDDHANT SINGH, ANURAG KUMAR SINGH, ANAYA DIXIT, ADARSH TIPRADI, HERAMB
+
+Paper title: EVALUATING THE EFFECTIVENESS OF CMBR DATA IN CONSTRAINING
+COSMIC STRUCTURE: A SYSTEMATIC REVIEW
+Abstract : The study of the Cosmic Microwave Background Radiation (CMBR) provides critical insights into the early
+Universe, revealing small anisotropies that carry within themselves information about its structure and evolution. We present the
+challenges of understanding the structure of the Universe by examining discrepancies in the ΛCDM model, the development of
+galaxies, and the era of reionization. The paper focuses on the Sunyaev-Zel'dovich (SZ) effect and its implications for galaxy
+clusters. Further, It discusses the tensions within the ΛCDM model, particularly in determining the Hubble constant (H0), and
+the role of voids and Baryon Acoustic Oscillations (BAO) in resolving these discrepancies.
+High-redshift galaxy surveys bring forth new information about galaxy formation and evolution while also assessing the
+limitations of Principal Component Analysis (PCA) in studying reionization. Our findings suggest a slower-than-expected growth
+of large-scale structures in the dark energy era, indicating potential gaps in our current cosmological models. Furthermore, The
+PLANCK mission's contributions to CMB studies are discussed, emphasizing on the legacy data that continue to shape our
+understanding of the cosmos. This paper aims to unravel the complexities underlying the CMBR and its implications for
+cosmological research, and how these small complexities and differences could lead to discoveries in the near future.
+Written by : ANUSTUP B, SHIVEN L, SHRADHA, PRIYANSHI M, HERAMB
